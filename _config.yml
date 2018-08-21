@@ -17,7 +17,7 @@ author: true
 name: '丁昊'
 NickName: 'Alpacadh'
 webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+bio: '懒的写'
 about: true
 aboutyou: '这个人很懒 什么都没有留下'
 portraits: '/assets/profile.jpeg' # your portraits image file path
@@ -25,9 +25,9 @@ portraits: '/assets/profile.jpeg' # your portraits image file path
 # SNS
 SNS: true
 SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagram', 'weixin']
-  mail: 'mailto:abc@gmail.com'
+  mail: '1019327029@qq.com'
   weixin: '' # your wechat image file path
-  QQ: '' # 1019327029
+  QQ: ''  1019327029
   weibo: ''
   instagram: ''
   twitter: ''
