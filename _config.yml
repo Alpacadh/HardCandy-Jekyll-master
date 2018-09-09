@@ -27,7 +27,7 @@ SNS: true
 SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagram', 'weixin']
   mail: 'mailto:abc@gmail.com'
   weixin: '' # your wechat image file path
-  QQ: ''  1019327029
+  QQ: '1019327029'
   weibo: ''
   instagram: ''
   twitter: ''
