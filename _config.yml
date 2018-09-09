@@ -19,7 +19,7 @@ NickName: 'Alpacadh'
 webtitle: 'your awesome webtitle'
 bio: 'hello world'
 about: true
-aboutyou: '我没输 我不想改变'
+aboutyou: '我没输 不需要改变'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
