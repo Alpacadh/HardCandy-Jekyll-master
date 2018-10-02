@@ -1,7 +1,6 @@
 ---
 published: false
 ---
-## A New Post
 ---
 layout: post
 title:  "TEST!"
