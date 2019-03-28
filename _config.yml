@@ -27,7 +27,7 @@ SNS: true
 SNS-icon: #['mail','weixin','QQ','weibo','instagram','twitter','github','Dribbble','facebook','Google','zhihu','juejin','twitch']
   mail: 'mailto:1019327029@qq.com'
   weixin: '' # your wechat image file path
-  QQ: '1019327029'
+  QQ: 'http://wpa.qq.com/msgrd?v=3&uin=1019327029&site=qq&menu=yes'
   weibo: ''
   instagram: ''
   twitter: ''
