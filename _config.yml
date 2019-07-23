@@ -40,7 +40,7 @@ SNS-icon: #['mail','weixin','QQ','weibo','instagram','twitter','github','Dribbbl
   twitch: ''
 
 # 分页
-paginate: 3
+paginate: 5
 paginatepath: ['page:num']
 
 # since
